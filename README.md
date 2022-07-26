@@ -18,7 +18,7 @@ Best case: Aradığımız sayının dizinin en başında olması [2,6,16,18,22,2
 
 SORU 4
 Dizi sıralandıktan sonra 18 sayısı hangi case kapsamına girer? Yazınız.
-18 Sayısı dizinin orta sayılarından birisi yani "AVERAGE CASE" kapsamına girer.
+18 Sayısı dizinin ortanca sayılarından birisi yani "AVERAGE CASE" kapsamına girer.
 
 SORU 5
 [7,3,5,8,2,9,4,15,6] dizisinin Insertion Sort'a göre ilk 4 adımını yazınız.
